@@ -1,0 +1,4 @@
+F:\aula\Primeri_R.CSharp.Terminal\Modul_R_02\Modul_R_02\bin\Debug\Modul_R_02.exe
+F:\aula\Primeri_R.CSharp.Terminal\Modul_R_02\Modul_R_02\bin\Debug\Modul_R_02.pdb
+F:\aula\Primeri_R.CSharp.Terminal\Modul_R_02\Modul_R_02\obj\x86\Debug\Modul_R_02.exe
+F:\aula\Primeri_R.CSharp.Terminal\Modul_R_02\Modul_R_02\obj\x86\Debug\Modul_R_02.pdb
