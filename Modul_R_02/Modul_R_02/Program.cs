@@ -12,8 +12,8 @@ namespace Modul_R_02
 			int sum = 0;
 
 			//Събиране на числа
-			a=55;
-			b = 10;
+			a=10;
+			b = 5;
 			sum = a + b;
 
 			//писане в конзолата
@@ -22,7 +22,29 @@ namespace Modul_R_02
 			Console.Write ( b );
 			Console.Write (" = ");
 			Console.WriteLine(sum);
+		
+			// Допълнителни оператори
+			Console.WriteLine("\nИзползване на +=");
+			a+=b;  //а=10+5, a=a+b
+			Console.WriteLine ( a );
 
+			Console.WriteLine("\nИзползване на -=");
+			a-=b;  //а=10-5, a=a-b
+			Console.WriteLine ( a );	
+
+			Console.WriteLine("\nИзползване на *=");
+			a*=b;  //а=10*5, a=a*b
+			Console.WriteLine ( a );
+			Console.WriteLine("\nИзползване на ++");
+			a++;  // a=a+1
+			Console.WriteLine ( a );
+
+			Console.WriteLine("\nИзползване на --");
+			a--;  // a=a-1
+			Console.WriteLine ( a );
+
+			Console.WriteLine ("Стандартно деление: " + (14 / 4).ToString ()); //->2 (7/3 = 2.3333)
+			Console.WriteLine ("Остатък от деление: " + (14 % 4).ToString ()); //->1 (1/3 = 0.3333)
 		}
 	}
 }
