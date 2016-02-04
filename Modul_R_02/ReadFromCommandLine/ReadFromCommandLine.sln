@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadFromCommandLine", "ReadFromCommandLine.csproj", "{2AB803A1-9716-4012-BD20-974FDDD9AD6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TableProject", "TableProject\TableProject.csproj", "{93B5C70D-7C25-46F5-A99E-3679182B01D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2AB803A1-9716-4012-BD20-974FDDD9AD6E}.Debug|x86.ActiveCfg = Debug|x86
+		{2AB803A1-9716-4012-BD20-974FDDD9AD6E}.Debug|x86.Build.0 = Debug|x86
+		{2AB803A1-9716-4012-BD20-974FDDD9AD6E}.Release|x86.ActiveCfg = Release|x86
+		{2AB803A1-9716-4012-BD20-974FDDD9AD6E}.Release|x86.Build.0 = Release|x86
+		{93B5C70D-7C25-46F5-A99E-3679182B01D8}.Debug|x86.ActiveCfg = Debug|x86
+		{93B5C70D-7C25-46F5-A99E-3679182B01D8}.Debug|x86.Build.0 = Debug|x86
+		{93B5C70D-7C25-46F5-A99E-3679182B01D8}.Release|x86.ActiveCfg = Release|x86
+		{93B5C70D-7C25-46F5-A99E-3679182B01D8}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal

@@ -28,6 +28,21 @@ namespace ReadFromCommandLine
 
 			Console.WriteLine ("3-ти знак : " + test.Split(';')[2]);
 
+			string d = "Hello", e = "World";
+			object f = d + " " + e+"\n";
+			Console.WriteLine (f);
+
+			string A1 = (string)f;
+			Console.WriteLine (A1);
+
+			Console.Write("Моля въведете число или цифра:");
+			int B1=Convert.ToInt32( Console.ReadLine ());
+
+			Console.Write("Моля дума:");
+			string C1=( Console.ReadLine ());
+
+			//string D1 = B1.ToString; // + " " + C1 + "\n";
+			Console.WriteLine (B1.ToString().Length +" "+C1);
 
 		}
 	}
